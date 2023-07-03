@@ -1,5 +1,5 @@
 {
-  "name": "@ssd-al/admin",
+  "name": "@ssd-al-1/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
